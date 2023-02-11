@@ -2088,8 +2088,8 @@ input, select, textarea {
 			left: -1000%;
 			top: 0;
 			z-index: 1;
-			box-shadow: inset 0px 0px 0px 1px #e8e8e8;
-			background: #f6f8fb url("images/image-wrapper.svg");
+			/* box-shadow: inset 0px 0px 0px 1px #e8e8e8;
+			background: #f6f8fb url("images/image-wrapper.svg"); */
 		}
 
 	#header-wrapper {
@@ -2113,7 +2113,8 @@ input, select, textarea {
 
 	#promo-wrapper {
 		position: relative;
-		background-image: url("images/overlay.png"), url("../../images/promo.jpg");
+		background-color: #42474c;
+		/* background-image: url("images/overlay.png"), url("../../images/promo.jpg"); */
 		background-size: 192px 192px, cover;
 		background-position: top left, center center;
 		color: #fff;
