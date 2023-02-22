@@ -3086,6 +3086,7 @@ input, select, textarea {
 
 	.devicon-size {
 		font-size: 2em;
+		margin-bottom: 1vh;
 	}
 
 	#contact-icon {
