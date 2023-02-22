@@ -3099,3 +3099,9 @@ input, select, textarea {
 	img {
 		border-radius: .4rem;
 	}
+
+	.back-button {
+		display: flex;
+		justify-content: center;
+		margin: 1vh;
+	}
