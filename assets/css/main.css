@@ -3083,3 +3083,19 @@ input, select, textarea {
 		align-items: center;
 		cursor: default;
 	}
+
+	.devicon-size {
+		font-size: 2em;
+	}
+
+	#contact-icon {
+		font-size: 2em;
+		display: flex;
+		justify-content: center;
+		gap: 1vw;
+		outline: none;
+	}
+
+	img {
+		border-radius: .4rem;
+	}
